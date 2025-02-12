@@ -2,7 +2,7 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=FabioHenriqueDev"/> 
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=FabioHenriqueDev&theme=synthwave"/> 
 </a><br><br>
 
 
@@ -16,7 +16,7 @@ technologies I use:
 
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FabioHenriqueDev&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FabioHenriqueDev&layout=compact&langs_count=8&card_width=320&theme=synthwave" />
 </a><br><br>
   
 ### Contact me at:
