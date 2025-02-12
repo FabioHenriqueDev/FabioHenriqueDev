@@ -16,6 +16,13 @@ technologies I use:
 </div><br>
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioHenriqueDev&hide_progress=true)
+
+
+
+  
+
+
 
 
 
