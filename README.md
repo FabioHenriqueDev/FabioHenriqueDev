@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Me chamo Fabio Henrique 👋</h1>
+<h1 align="center">Olá! Me chamo Fábio Henrique 👋</h1>
 
 <p align="center">
   💻 Desenvolvedor em formação, apaixonado por tecnologia e inovação.<br>
