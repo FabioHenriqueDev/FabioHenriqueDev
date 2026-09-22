@@ -4,7 +4,8 @@
   
   <p>
     🚀 Em constante evolução, transformando linhas de código em soluções inteligentes.<br>
-    📚 Cursando Análise e Desenvolvimento de Sistemas na Faculdade Impacta.<br>
+    📚 Análise e Desenvolvimento de Sistemas na Faculdade Impacta - Concluído.<br>
+    📚 Sistema de Informação na UNIP - Cursando.<br>
     💡 Focado na construção de aplicações escaláveis, automações eficientes e integração de IA.
   </p>
 </div>
