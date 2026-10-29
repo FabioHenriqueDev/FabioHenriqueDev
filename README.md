@@ -24,7 +24,7 @@ Sou desenvolvedor de software apaixonado por **Inteligência Artificial** e por 
 
 - 🎓 **Análise e Desenvolvimento de Sistemas** — Faculdade Impacta *(concluído ✅)*
 - 📘 **Sistemas de Informação** — UNIP *(cursando 📖)*
-- 🤖 Focado em **integração de IA**, **agentes inteligentes** e **automações**
+- 🤖 Focado em **Desenvolvimento de Software**, **integração de IA** e **agentes inteligentes** e 
 - 🌱 Sempre aprendendo, sempre evoluindo
 
 ---
