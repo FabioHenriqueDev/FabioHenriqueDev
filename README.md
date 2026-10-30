@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=F%C3%A1bio%20Henrique&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Desenvolvedor%20de%20Software%20%7C%20IA%20%26%20Automa%C3%A7%C3%A3o&descSize=18&descAlignY=58" alt="Header" />
-
 <a href="https://github.com/FabioHenriqueDev">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=640&lines=Ol%C3%A1!+Eu+sou+o+F%C3%A1bio+Henrique;Transformando+c%C3%B3digo+em+solu%C3%A7%C3%B5es+inteligentes;Python+%7C+TypeScript+%7C+JavaScript;Construindo+aplica%C3%A7%C3%B5es+escal%C3%A1veis+e+agentes+de+IA" alt="Typing SVG" />
 </a>
